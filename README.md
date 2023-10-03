@@ -3,6 +3,7 @@ SELF BOT PYTHON3.
 ------
 -
 Cara Install Self Bot :
+
 ------
 - Ketik -> `apt update`
 - Ketik -> `apt upgrade`
